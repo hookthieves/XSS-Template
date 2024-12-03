@@ -1,10 +1,10 @@
 # XSS-Template
 I created this program with the idea of fast and efficient workflow when studying for my OSWA course. 
 ## Usage
-./xss_template.sh
-Enter your IP address
-Enter your PORT number
-Enter the file name
+**./xss_template.sh**
+- Enter your IP address
+- Enter your PORT number (it can be blank)
+- Enter the file name (it can be blank)
 ## Templates
 - Steal Session Cookies
 - Steal Session Passwords
