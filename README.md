@@ -1,6 +1,6 @@
 # XSS-Template
 I created this program with the idea of fast and efficient workflow when studying for my OSWA course. 
-## Usuage
+## Usage
 ./xss_template.sh
 Enter your IP address
 Enter your PORT number
