@@ -180,7 +180,3 @@ You can open the file and copy any payload with your inputs pre-filled.
 
 This script is for educational and authorized penetration testing use only. Unauthorized use against systems without permission is illegal and unethical.
 
-```
-
-Let me know if you'd like to convert this into an HTML version for publishing or add auto-hosting instructions.
-```
